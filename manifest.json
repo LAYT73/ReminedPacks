@@ -7,5 +7,8 @@
   "artifact": "vanillapro-0.1.0.zip",
   "sha256": "53d4b7dfa23b288e98d3dc1c76b3ead23bcf7ccd2559073293ad21c95f6d3d5f",
   "bytes": 462427747,
-  "updated_at": "2026-10-13T09:30:37Z"
+  "updated_at": "2026-10-13T09:30:37Z",
+  "version_json": "VanillaPro.json",
+  "client_jar": "VanillaPro.jar",
+  "java_major": 25
 }
