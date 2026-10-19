@@ -1,19 +1,19 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-19T16:01:46Z",
+  "updated_at": "2026-10-19T16:02:26Z",
   "packs": [
     {
       "id": "vanillapro",
       "name": "VanillaPro",
       "version": "0.1.2",
       "artifact": "vanillapro-0.1.2.zip",
-      "sha256": "e9472fd9c7cf65f8b0828359c5a65fc94253f2640a6c8cfc7e98ef1d93497df2",
-      "bytes": 462757644,
+      "sha256": "afda328b81e248c4d9a19a9f7c99c58c0fcde953bb313de4e925b6b497d3b3d6",
+      "bytes": 462757645,
       "version_json": "VanillaPro.json",
       "client_jar": "VanillaPro.jar",
       "java_major": 25,
       "is_default": true,
-      "updated_at": "2026-10-19T16:01:46Z",
+      "updated_at": "2026-10-19T16:02:26Z",
       "loader": "fabric"
     }
   ]
