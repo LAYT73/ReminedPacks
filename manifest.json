@@ -1,12 +1,12 @@
 {
   "pack_id": "vanillapro",
   "name": "VanillaPro",
-  "version": "0.1.9",
-  "artifact": "vanillapro-0.1.9.zip",
-  "sha256": "20df11ac799f21180bfe5a4a242fa5c497b0d83aa8592bbd1d9b395232458ceb",
-  "bytes": 624103758,
+  "version": "0.1.10",
+  "artifact": "vanillapro-0.1.10.zip",
+  "sha256": "afbc7a22bfb45e995c9a775d7e97e522d89b25b476ccd44769e40abffeb23daf",
+  "bytes": 624104341,
   "version_json": "VanillaPro.json",
   "client_jar": "VanillaPro.jar",
   "java_major": 25,
-  "updated_at": "2026-10-30T21:51:54Z"
+  "updated_at": "2026-10-30T22:02:09Z"
 }
