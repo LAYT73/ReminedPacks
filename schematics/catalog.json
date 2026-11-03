@@ -1,0 +1,846 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-03T08:39:40Z",
+  "baseUrl": "https://raw.githubusercontent.com/LAYT73/ReminedPacks/main/schematics/",
+  "categories": [
+    {
+      "id": "houses",
+      "name": {
+        "ru": "Дома",
+        "en": "Houses"
+      }
+    },
+    {
+      "id": "farms",
+      "name": {
+        "ru": "Фермы",
+        "en": "Farms"
+      }
+    },
+    {
+      "id": "mini",
+      "name": {
+        "ru": "Мини-постройки",
+        "en": "Mini builds"
+      }
+    },
+    {
+      "id": "portals",
+      "name": {
+        "ru": "Порталы",
+        "en": "Portals"
+      }
+    },
+    {
+      "id": "decor",
+      "name": {
+        "ru": "Декор и природа",
+        "en": "Decor & nature"
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "oak-starter-cabin",
+      "category": "houses",
+      "name": {
+        "ru": "Дубовая хижина для старта",
+        "en": "Oak starter cabin"
+      },
+      "description": {
+        "ru": "Маленький домик на первые ночи: кровать, сундук, верстак, печка и факелы. Всё из дерева и булыжника.",
+        "en": "A tiny first-night home with a bed, chest, crafting table, furnace and torches. Just wood and cobblestone."
+      },
+      "file": "houses/oak-starter-cabin.schem",
+      "format": "schem",
+      "sha256": "b3d2fc55a85745deb06d883e89f38305af8cb0a7411e21356d071fb759dfc901",
+      "bytes": 719,
+      "size": [
+        9,
+        7,
+        8
+      ],
+      "blockCount": 214,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "oak",
+        "starter",
+        "survival"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/oak-starter-cabin.png"
+    },
+    {
+      "id": "spruce-cottage",
+      "category": "houses",
+      "name": {
+        "ru": "Ёлевый коттедж с трубой",
+        "en": "Spruce cottage"
+      },
+      "description": {
+        "ru": "Уютный коттедж с каменной трубой, камином и крышей из тёмных ступеней. Внутри стол, кровать и подвесной фонарь.",
+        "en": "A cosy cottage with a stone chimney, a hearth and a dark stair roof. Table, bed and a hanging lantern inside."
+      },
+      "file": "houses/spruce-cottage.schem",
+      "format": "schem",
+      "sha256": "0d243f268f681c705faee6f11b1809ea64d19dceb27f58278aa8fafce59d057b",
+      "bytes": 847,
+      "size": [
+        10,
+        9,
+        9
+      ],
+      "blockCount": 299,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "spruce",
+        "cottage",
+        "chimney"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/spruce-cottage.png"
+    },
+    {
+      "id": "medieval-half-timber",
+      "category": "houses",
+      "name": {
+        "ru": "Фахверковый дом",
+        "en": "Medieval half-timber house"
+      },
+      "description": {
+        "ru": "Двухэтажный дом: белая штукатурка, тёмные балки, второй этаж нависает над первым. Лестница внутри.",
+        "en": "Two floors of white plaster and dark timber, with a jettied upper storey and a brick-red stair roof. Staircase inside."
+      },
+      "file": "houses/medieval-half-timber.schem",
+      "format": "schem",
+      "sha256": "f7b54530dcc7d1dbbed39f735323695225108cb7de64629ff7864cace2516ffa",
+      "bytes": 1100,
+      "size": [
+        11,
+        12,
+        11
+      ],
+      "blockCount": 529,
+      "mcVersion": "26.2",
+      "difficulty": "hard",
+      "tags": [
+        "medieval",
+        "half-timber",
+        "two-floor"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/medieval-half-timber.png"
+    },
+    {
+      "id": "birch-modern-house",
+      "category": "houses",
+      "name": {
+        "ru": "Современный дом из берёзы и кварца",
+        "en": "Birch modern house"
+      },
+      "description": {
+        "ru": "Светлый дом с большими окнами, плоской крышей и террасой. Кварц, берёза и стекло.",
+        "en": "A bright house with big windows, a flat roof and a terrace. Quartz, birch and glass."
+      },
+      "file": "houses/birch-modern-house.schem",
+      "format": "schem",
+      "sha256": "460b16e394df8c5fa07cdccb88948d310fadd37d6b30413296c42264237dd62f",
+      "bytes": 1101,
+      "size": [
+        11,
+        9,
+        9
+      ],
+      "blockCount": 410,
+      "mcVersion": "26.2",
+      "difficulty": "hard",
+      "tags": [
+        "birch",
+        "modern",
+        "quartz",
+        "glass"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/birch-modern-house.png"
+    },
+    {
+      "id": "desert-sandstone-house",
+      "category": "houses",
+      "name": {
+        "ru": "Дом из песчаника",
+        "en": "Desert sandstone house"
+      },
+      "description": {
+        "ru": "Прохладный дом для пустыни: толстые стены, плоская крыша с навесом и лестница наверх. Внутри всё необходимое.",
+        "en": "A cool desert home with thick walls, a flat roof with a shaded corner and a ladder up. Everything you need inside."
+      },
+      "file": "houses/desert-sandstone-house.schem",
+      "format": "schem",
+      "sha256": "f1cf98c26cc97317a460630a1a6e226cbd4aeaf589433c45e21e64832985162f",
+      "bytes": 979,
+      "size": [
+        10,
+        9,
+        9
+      ],
+      "blockCount": 325,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "desert",
+        "sandstone",
+        "flat-roof"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/desert-sandstone-house.png"
+    },
+    {
+      "id": "cherry-tea-house",
+      "category": "houses",
+      "name": {
+        "ru": "Чайный домик из вишни",
+        "en": "Cherry tea house"
+      },
+      "description": {
+        "ru": "Небольшой павильон с розовой крышей-пагодой, бумажными окнами и верандой. Внутри низкий столик и подушки.",
+        "en": "A small pagoda pavilion with a pink hip roof, paper-screen windows and a veranda. Low table and cushions inside."
+      },
+      "file": "houses/cherry-tea-house.schem",
+      "format": "schem",
+      "sha256": "8a73414e974c24e5bfc8be4014a09b592190868c4dcf2568d8205c21a2d7d304",
+      "bytes": 846,
+      "size": [
+        9,
+        10,
+        9
+      ],
+      "blockCount": 226,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "cherry",
+        "tea",
+        "pagoda"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/cherry-tea-house.png"
+    },
+    {
+      "id": "crop-field-9x9",
+      "category": "farms",
+      "name": {
+        "ru": "Огород 9×9 с колодцем-водоёмом",
+        "en": "9x9 crop field"
+      },
+      "description": {
+        "ru": "Пшеница, морковь и картошка вокруг центрального источника воды. Забор с калиткой, компостер и пугало.",
+        "en": "Wheat, carrots and potatoes around a central water source. Fenced, with a gate, a composter and a scarecrow."
+      },
+      "file": "farms/crop-field-9x9.schem",
+      "format": "schem",
+      "sha256": "8fad38ef5de80e2c3f145746e900c583f2711736954610b6263cfb28bf6d2885",
+      "bytes": 703,
+      "size": [
+        9,
+        4,
+        9
+      ],
+      "blockCount": 166,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "wheat",
+        "carrot",
+        "potato",
+        "farm",
+        "starter"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/crop-field-9x9.png"
+    },
+    {
+      "id": "sugar-cane-farm",
+      "category": "farms",
+      "name": {
+        "ru": "Ферма сахарного тростника",
+        "en": "Sugar cane farm"
+      },
+      "description": {
+        "ru": "Три водных канала и шесть грядок тростника по обе стороны. Растёт сам, нужно только собирать.",
+        "en": "Three water channels with six rows of sugar cane beside them. It grows by itself, you only harvest."
+      },
+      "file": "farms/sugar-cane-farm.schem",
+      "format": "schem",
+      "sha256": "52e6bf62c9e5e98d9cbf015c8effe2f383d13d4bc7e27100283acc58943d5488",
+      "bytes": 541,
+      "size": [
+        11,
+        4,
+        9
+      ],
+      "blockCount": 182,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "sugar-cane",
+        "farm",
+        "water"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/sugar-cane-farm.png"
+    },
+    {
+      "id": "pumpkin-melon-farm",
+      "category": "farms",
+      "name": {
+        "ru": "Ферма тыкв и арбузов",
+        "en": "Pumpkin & melon farm"
+      },
+      "description": {
+        "ru": "Тыквы слева, арбузы справа, посередине канал с водой. Стебли уже повёрнуты к плодам.",
+        "en": "Pumpkins on one side, melons on the other, a water channel between. Stems already turn towards their fruit."
+      },
+      "file": "farms/pumpkin-melon-farm.schem",
+      "format": "schem",
+      "sha256": "06b0bd837ee1c93874cdfb136e271355f226004ec8097849fc2eb78936de70bd",
+      "bytes": 661,
+      "size": [
+        11,
+        3,
+        9
+      ],
+      "blockCount": 172,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "pumpkin",
+        "melon",
+        "farm"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/pumpkin-melon-farm.png"
+    },
+    {
+      "id": "animal-pen",
+      "category": "farms",
+      "name": {
+        "ru": "Загон для животных",
+        "en": "Animal pen"
+      },
+      "description": {
+        "ru": "Забор с калиткой, навес на двух столбах, сено, поилки из котлов и кормушка-компостер.",
+        "en": "Fenced pen with a gate, a lean-to shelter, hay bales, cauldron troughs and a composter feeder."
+      },
+      "file": "farms/animal-pen.schem",
+      "format": "schem",
+      "sha256": "fa89bdde976c412b0bc2abbcb647ea9b7c2565a632e3821d0d3873901e40c247",
+      "bytes": 709,
+      "size": [
+        11,
+        4,
+        9
+      ],
+      "blockCount": 204,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "animals",
+        "pen",
+        "fence",
+        "hay"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/animal-pen.png"
+    },
+    {
+      "id": "tree-nursery",
+      "category": "farms",
+      "name": {
+        "ru": "Питомник деревьев",
+        "en": "Tree nursery"
+      },
+      "description": {
+        "ru": "Четыре грядки с саженцами: дуб, ель (2×2 на подзоле), тёмный дуб и джунгли. Есть компостер и бочка.",
+        "en": "Four beds of saplings: oak, 2x2 spruce on podzol, dark oak and jungle. A composter and a barrel included."
+      },
+      "file": "farms/tree-nursery.schem",
+      "format": "schem",
+      "sha256": "97dbe7feb579c5a158a423fb4e4d692d4d2d2f3751a5dff267604e7979fa5404",
+      "bytes": 550,
+      "size": [
+        9,
+        3,
+        9
+      ],
+      "blockCount": 112,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "trees",
+        "saplings",
+        "podzol",
+        "nursery"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/tree-nursery.png"
+    },
+    {
+      "id": "village-well",
+      "category": "mini",
+      "name": {
+        "ru": "Колодец с крышей",
+        "en": "Well with roof"
+      },
+      "description": {
+        "ru": "Каменный колодец с водой, четырьмя столбами и еловой крышей. Внутри висит фонарь.",
+        "en": "A stone well with water, four posts and a spruce roof. A lantern hangs inside."
+      },
+      "file": "mini/village-well.schem",
+      "format": "schem",
+      "sha256": "b892caeaeaa4e987ec444fb89dbcbf5f189156d9ac9a6ce6d70096d5c7e4c539",
+      "bytes": 517,
+      "size": [
+        5,
+        7,
+        5
+      ],
+      "blockCount": 70,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "well",
+        "water",
+        "village"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/village-well.png"
+    },
+    {
+      "id": "market-stall",
+      "category": "mini",
+      "name": {
+        "ru": "Рыночный прилавок",
+        "en": "Market stall"
+      },
+      "description": {
+        "ru": "Прилавок с полосатым тентом из шерсти, бочками, тыквами и арбузами. Для деревни или спавна.",
+        "en": "A counter with a striped wool awning, barrels, pumpkins and melons. Good for a village or spawn."
+      },
+      "file": "mini/market-stall.schem",
+      "format": "schem",
+      "sha256": "93500537aeb48565c7a240ab06877b1c8c02e6dc0e3d31813b42c5d8aaed9572",
+      "bytes": 490,
+      "size": [
+        7,
+        5,
+        6
+      ],
+      "blockCount": 115,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "market",
+        "wool",
+        "barrel",
+        "village"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/market-stall.png"
+    },
+    {
+      "id": "street-lamp",
+      "category": "mini",
+      "name": {
+        "ru": "Уличный фонарь",
+        "en": "Street lamp post"
+      },
+      "description": {
+        "ru": "Высокий фонарь на каменной колонне с двумя боковыми фонарями. Одинаково хорош для дорог и садов.",
+        "en": "A tall lamp on a stone column with two side lanterns. Fine for roads and gardens alike."
+      },
+      "file": "mini/street-lamp.schem",
+      "format": "schem",
+      "sha256": "5323233e455625e91193df23304ae4b03d69a11c74a0345ca9b8e62fe569e0eb",
+      "bytes": 372,
+      "size": [
+        3,
+        7,
+        3
+      ],
+      "blockCount": 19,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "lamp",
+        "lantern",
+        "street"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/street-lamp.png"
+    },
+    {
+      "id": "park-bench",
+      "category": "mini",
+      "name": {
+        "ru": "Скамейка с клумбами",
+        "en": "Park bench with planters"
+      },
+      "description": {
+        "ru": "Скамейка у живой изгороди и две клумбы с цветами по бокам. Тротуар из каменных кирпичей.",
+        "en": "A bench against a hedge with a flower planter on each side, on a stone brick pavement."
+      },
+      "file": "mini/park-bench.schem",
+      "format": "schem",
+      "sha256": "8fb6e37bc75c4b3cc63d805dd055329ff2b11dd11229f2ede09e603858d7d93a",
+      "bytes": 499,
+      "size": [
+        11,
+        4,
+        3
+      ],
+      "blockCount": 71,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "bench",
+        "planter",
+        "park"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/park-bench.png"
+    },
+    {
+      "id": "stone-bridge",
+      "category": "mini",
+      "name": {
+        "ru": "Каменный мостик",
+        "en": "Small stone bridge"
+      },
+      "description": {
+        "ru": "Горбатый мостик из каменных кирпичей над маленьким прудом. С перилами и фонарями на концах.",
+        "en": "A humpback stone brick bridge over a small pond, with railings and lanterns at the ends."
+      },
+      "file": "mini/stone-bridge.schem",
+      "format": "schem",
+      "sha256": "5f07a18a1e7dbdde426b828ef1c341b80ac9e034f712bdc551580e571b22a7f3",
+      "bytes": 465,
+      "size": [
+        9,
+        4,
+        5
+      ],
+      "blockCount": 86,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "bridge",
+        "stone",
+        "water"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/stone-bridge.png"
+    },
+    {
+      "id": "campfire-rest",
+      "category": "mini",
+      "name": {
+        "ru": "Привал у костра",
+        "en": "Campfire rest spot"
+      },
+      "description": {
+        "ru": "Костёр в кольце камней, брёвна вместо лавок, фонарь на столбе и бочка с припасами.",
+        "en": "A campfire in a ring of stones, log seats, a lantern on a post and a barrel of supplies."
+      },
+      "file": "mini/campfire-rest.schem",
+      "format": "schem",
+      "sha256": "37ae843c61e17b7b34cf8c93478205d302c75a0262bcb54bcdc93a56b344555c",
+      "bytes": 562,
+      "size": [
+        7,
+        5,
+        7
+      ],
+      "blockCount": 79,
+      "mcVersion": "26.2",
+      "difficulty": "easy",
+      "tags": [
+        "campfire",
+        "camp",
+        "lantern",
+        "logs"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/campfire-rest.png"
+    },
+    {
+      "id": "ruined-portal",
+      "category": "portals",
+      "name": {
+        "ru": "Разрушенный портал",
+        "en": "Ruined portal"
+      },
+      "description": {
+        "ru": "Старая рама портала на холме из незерака: плачущий обсидиан, золото и вьюны. Рамка рабочая, остаётся зажечь.",
+        "en": "An old portal frame on a netherrack mound with crying obsidian, gold and vines. The frame is complete, just light it."
+      },
+      "file": "portals/ruined-portal.schem",
+      "format": "schem",
+      "sha256": "bd6a16700d57d942a77097e10d2891daa984d4f4668b8a834abf7d654d26be40",
+      "bytes": 445,
+      "size": [
+        11,
+        6,
+        8
+      ],
+      "blockCount": 136,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "nether",
+        "ruined",
+        "obsidian"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/ruined-portal.png"
+    },
+    {
+      "id": "blackstone-temple-portal",
+      "category": "portals",
+      "name": {
+        "ru": "Портал-храм из чернокамня",
+        "en": "Blackstone temple portal"
+      },
+      "description": {
+        "ru": "Рамка между колоннами из полированного чернокамня и позолоченного чернокамня, с фонарями душ и балкой сверху.",
+        "en": "A frame between polished and gilded blackstone pillars, with soul lanterns and a lintel beam above."
+      },
+      "file": "portals/blackstone-temple-portal.schem",
+      "format": "schem",
+      "sha256": "34197e3cea942672f59c0608e3f07e6c980f2b9f47708af74d9d987566385599",
+      "bytes": 548,
+      "size": [
+        12,
+        9,
+        9
+      ],
+      "blockCount": 168,
+      "mcVersion": "26.2",
+      "difficulty": "hard",
+      "tags": [
+        "nether",
+        "blackstone",
+        "temple",
+        "soul-lantern"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/blackstone-temple-portal.png"
+    },
+    {
+      "id": "amethyst-crystal-portal",
+      "category": "portals",
+      "name": {
+        "ru": "Хрустальный портал",
+        "en": "Amethyst crystal portal"
+      },
+      "description": {
+        "ru": "Обсидиановая рамка среди аметистовых кристаллов. Основание из кальцита и гладкого базальта.",
+        "en": "An obsidian frame among amethyst crystals, on a base of calcite and smooth basalt."
+      },
+      "file": "portals/amethyst-crystal-portal.schem",
+      "format": "schem",
+      "sha256": "352074604f270ac58654e32300b9a9af1a3797aa1a31fc43601cc412c42660df",
+      "bytes": 574,
+      "size": [
+        11,
+        9,
+        8
+      ],
+      "blockCount": 174,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "amethyst",
+        "crystal",
+        "geode"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/amethyst-crystal-portal.png"
+    },
+    {
+      "id": "overgrown-nature-portal",
+      "category": "portals",
+      "name": {
+        "ru": "Заросший портал",
+        "en": "Overgrown nature portal"
+      },
+      "description": {
+        "ru": "Рамка портала, обросшая мхом и азалиями. Вьюны свисают сверху, вокруг мшистый камень и цветы.",
+        "en": "A portal frame swallowed by moss and azaleas, with hanging vines, mossy stone and flowers around it."
+      },
+      "file": "portals/overgrown-nature-portal.schem",
+      "format": "schem",
+      "sha256": "6ffa9e84ce58dd4e8d23405af6c3ec066a13afb73a4b7126ea22f5eda9b7fa9e",
+      "bytes": 609,
+      "size": [
+        11,
+        8,
+        8
+      ],
+      "blockCount": 148,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "moss",
+        "azalea",
+        "vines",
+        "overgrown"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/overgrown-nature-portal.png"
+    },
+    {
+      "id": "big-oak-tree",
+      "category": "decor",
+      "name": {
+        "ru": "Большой дуб",
+        "en": "Large oak tree"
+      },
+      "description": {
+        "ru": "Раскидистый дуб с толстыми ветвями и пышной кроной. Листва не опадает.",
+        "en": "A spreading oak with thick branches and a full canopy. The leaves are persistent and never decay."
+      },
+      "file": "decor/big-oak-tree.schem",
+      "format": "schem",
+      "sha256": "f739bb0a14b1f55427120e3b585d85cdabd446242dbe2325c40c311e023261e6",
+      "bytes": 818,
+      "size": [
+        15,
+        18,
+        13
+      ],
+      "blockCount": 814,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "oak",
+        "tree",
+        "nature"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/big-oak-tree.png"
+    },
+    {
+      "id": "cherry-blossom-tree",
+      "category": "decor",
+      "name": {
+        "ru": "Вишнёвое дерево",
+        "en": "Cherry tree"
+      },
+      "description": {
+        "ru": "Розовое дерево с изогнутым стволом и широкой плоской кроной. Под ним лепестки на траве.",
+        "en": "A pink tree with a twisting trunk and a wide, flat canopy, with petals scattered on the grass below."
+      },
+      "file": "decor/cherry-blossom-tree.schem",
+      "format": "schem",
+      "sha256": "de96fc831ebd1ac28b6157a009f3d1d9813f41821aab8e516713c5cb8b7683f4",
+      "bytes": 909,
+      "size": [
+        16,
+        12,
+        14
+      ],
+      "blockCount": 620,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "cherry",
+        "tree",
+        "nature",
+        "pink"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/cherry-blossom-tree.png"
+    },
+    {
+      "id": "stone-brick-fountain",
+      "category": "decor",
+      "name": {
+        "ru": "Фонтан из каменных кирпичей",
+        "en": "Stone brick fountain"
+      },
+      "description": {
+        "ru": "Восьмиугольный бассейн с водой и центральной чашей. Сверху фонарь, по углам тоже.",
+        "en": "An octagonal pool with a central bowl on a pillar. A lantern on top and more at the corners."
+      },
+      "file": "decor/stone-brick-fountain.schem",
+      "format": "schem",
+      "sha256": "1f8069554ab9ea8841e940268a9b79e55e495210068abab87cb833eea689d876",
+      "bytes": 490,
+      "size": [
+        9,
+        8,
+        9
+      ],
+      "blockCount": 256,
+      "mcVersion": "26.2",
+      "difficulty": "medium",
+      "tags": [
+        "fountain",
+        "water",
+        "stone-bricks"
+      ],
+      "author": "Remined",
+      "license": "CC0-1.0",
+      "sourceUrl": null,
+      "thumb": "thumbs/stone-brick-fountain.png"
+    }
+  ]
+}
