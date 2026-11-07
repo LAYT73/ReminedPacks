@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_at": "2026-11-04T02:22:41Z",
+  "updated_at": "2026-11-07T18:44:58Z",
   "packs": [
     {
       "id": "vanillapro",
@@ -14,6 +14,20 @@
       "java_major": 25,
       "is_default": true,
       "updated_at": "2026-11-04T02:22:41Z",
+      "loader": "fabric"
+    },
+    {
+      "id": "remined-vulkan-26.2",
+      "name": "Remined Vulkan",
+      "version": "1.0.0",
+      "artifact": "remined-vulkan-26.2-1.0.0.zip",
+      "sha256": "aa212508caecafc4d274b105a87198b2e88026082b03bd4cb855dd1c43074ce1",
+      "bytes": 1239128540,
+      "version_json": "fabric-loader-0.20.1-26.2.json",
+      "client_jar": "26.2.jar",
+      "java_major": 25,
+      "is_default": false,
+      "updated_at": "2026-11-07T18:44:58Z",
       "loader": "fabric"
     }
   ]
